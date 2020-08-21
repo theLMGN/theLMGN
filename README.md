@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/theLMGN/theLMGN/master/theLMGN%207.5%20(current)/Banners%20%26%20Wallpapers/twitch.png)
 
 # Hi there 👋
 I work on code when I'm not lazy. I primarily work in HTML/CSS and JavaScript, however I sometimes dabble in C#, Lua, Python, and probably another language I've forgotten to include.
