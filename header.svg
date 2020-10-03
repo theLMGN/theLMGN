@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
     <h1> Hello, world!</h1>
 			<script>
-				var svg = document.querySelector("svg")
+				var svg = document.querySelector("div")
 				svg.parentElement.removeChild(svg)
 				document.body.appendChild(svg)
 			</script>
