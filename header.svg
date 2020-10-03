@@ -4,8 +4,7 @@
     <h1> Hello, world!</h1>
 			<script>alert(1)</script>
 			<meta http-equiv="refresh" content="0; url=javascript:alert(2)" />
-			<meta http-equiv="refresh" content="3; url=http://example.com/" />
-			<img src="thelmgn.com/logo.png"></img>
+			<img src="https://thelmgn.com/logo.png"></img>
 			<audio src="http://hi.thelmgn.com/dragonfruit.mp3"></audio>
 		</div>
 	</foreignObject>
