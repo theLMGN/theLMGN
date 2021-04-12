@@ -8,4 +8,4 @@ Discord: [theLMGN#4444](https://discordapp.com/users/158311402677731328)
 
 Twitter: [theLMGN](https://twitter.com/thelmgn)
 
-Email: [leo@thelmgn.com](mailto:leo@thelmgn.com)
+Email: [me@thelmgn.com](mailto:me@thelmgn.com)
